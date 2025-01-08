@@ -1,9 +1,9 @@
 # C-Programming-Hub
 Algorithms And Data Structures In C
-## Variables 
-## Keywords
-## Pointers
-# Functions
-# arrays
-## structures
-# Memory Management 
+## Primitive Data Types
+# INT 
+# FLOAT
+# DOUBLE
+# CHAR 
+# LONG
+ 
