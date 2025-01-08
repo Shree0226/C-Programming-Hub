@@ -1,2 +1,6 @@
 # C-Programming-Hub
-algorithms and data structures in c
+Algorithms And Data Structures In C
+## Functions 
+## Pointers
+## Data Types
+# Memory Management 
