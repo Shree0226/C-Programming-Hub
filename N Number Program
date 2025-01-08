@@ -3,7 +3,6 @@
 int main() {
     int n;
 
-    // Prompt user for input
     printf("Enter a number: ");
     scanf("%d", &n);
 
@@ -13,5 +12,5 @@ int main() {
     }
 
     printf("\n");
-    return 0;
+    return 0
 }
