@@ -1,6 +1,9 @@
 # C-Programming-Hub
 Algorithms And Data Structures In C
-## Functions 
+## Variables 
+## Keywords
 ## Pointers
-
+# Functions
+# arrays
+## structures
 # Memory Management 
